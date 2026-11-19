@@ -112,4 +112,4 @@ git push -u origin feature/название-задачи
 
 - [@karuzinaksenia](https://github.com/karuzinaksenia)
 - [@missaixxka](https://github.com/missaixxka)
-- <!-- TODO: добавить третьего участника -->
+- [@zaripova17](https://github.com/zaripova17)
